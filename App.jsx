@@ -12,6 +12,8 @@ const App = () => {
                 album_name="My Beautiful Dark Twisted Fantasy"
                 artist_icon="artist_icon.png"
                 artist_name="Kanye West"
+                genre_icon="genre_icon.png"
+                genre_name="Baroque Rap"
             />
         </div>
     )
