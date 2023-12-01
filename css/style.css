@@ -11,6 +11,13 @@ body {
     background-color: whitesmoke;
 }
 
+.songs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
 .song-card {
     flex-basis: 225px;
     box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
