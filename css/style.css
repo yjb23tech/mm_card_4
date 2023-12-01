@@ -32,7 +32,7 @@ body {
 
 .song-card > h3 {
     font-weight: 700;
-    font-size: 18px;
+    font-size: 36px;
 }
 
 .info-group {
@@ -41,12 +41,12 @@ body {
 }
 
 .info-group > img {
-    height: 36px;
+    height: 24px;
     margin-right: 8px;
 }
 
 .info-group > p {
     margin-block: 3px;
-    font-size: 36px;
+    font-size: 24px;
     color: #2b283a;
 }
