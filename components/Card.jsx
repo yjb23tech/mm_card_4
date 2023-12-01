@@ -7,6 +7,10 @@ const Card = (props) => {
                 <img src={`images/${props.album_icon}`} />
                 <p>{props.album_name}</p>
             </div>
+            <div>
+                <img src={`images/${props.artist_icon}`} />
+                <p>{props.artist_name}</p>
+            </div>
         </div>
     )
 };

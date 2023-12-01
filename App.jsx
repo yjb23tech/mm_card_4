@@ -10,6 +10,8 @@ const App = () => {
                 song_title="Blame Game"
                 album_icon="album_icon.png"
                 album_name="My Beautiful Dark Twisted Fantasy"
+                artist_icon="artist_icon.png"
+                artist_name="Kanye West"
             />
         </div>
     )
